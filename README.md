@@ -13,4 +13,5 @@ Setup one or more models
 Do some playing with the model hyperparameters (learning rate, optimizer, batch size, epochs, whatever makes sense)
 ### Results: 
 How did the model do
-### Discussion: Summarize what worked, what didn't etc.
+### Discussion: 
+Summarize what worked, what didn't etc.
